@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+}
+.bg-404 {
+    background-color: #f8f9fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    flex-direction: column;
+}
+.error-code {
+    font-size: 6rem;
+    font-weight: bold;
+}
+.error-message {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+.btn-home {
+    margin-top: 1rem;
+    font-size: 1.25rem;
+}
